@@ -1,7 +1,6 @@
 ## Desvende o Segredo: Um Jogo Interativo com JavaScript, HTML e CSS
 
 link no vercel: <https://jogonumerosecretodavidbauer-6z4njfkqp-davidbauerdevs-projects.vercel.app/>
-Introdução
 
 Mergulhe em uma aventura de lógica e programação com o jogo "Número Secreto"! Este projeto, desenvolvido na plataforma Alura do programa Oracle Next Education, combina os poderes do JavaScript, HTML e CSS para criar uma experiência empolgante e desafiadora.
 
